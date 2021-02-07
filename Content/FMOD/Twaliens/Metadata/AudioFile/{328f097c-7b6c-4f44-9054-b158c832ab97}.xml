@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{328f097c-7b6c-4f44-9054-b158c832ab97}">
+        <property name="assetPath">
+            <value>y2mate.com - nightcore_bring_me_115_zombies_soundtrack_call_of_duty_black_ops_XQndiHmTILU.mp3</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>180.61061224489796</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{3aa22aec-c966-4e1c-bef1-802d67ce1c5c}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{a17e0c46-705e-462e-8285-df3126a00e42}">
+        <property name="assetPath">
+            <value>Disparo 1.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.8015192743764172</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{3aa22aec-c966-4e1c-bef1-802d67ce1c5c}</destination>
+        </relationship>
+    </object>
+</objects>

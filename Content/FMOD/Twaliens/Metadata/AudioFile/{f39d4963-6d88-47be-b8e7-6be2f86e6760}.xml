@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{f39d4963-6d88-47be-b8e7-6be2f86e6760}">
+        <property name="assetPath">
+            <value>Habilidad absorber enemigos.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>3.5627891156462583</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{3aa22aec-c966-4e1c-bef1-802d67ce1c5c}</destination>
+        </relationship>
+    </object>
+</objects>

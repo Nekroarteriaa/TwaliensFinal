@@ -1,0 +1,9 @@
+{e775fd9c-9b6f-4eb0-b0b7-15721040d7d3} event:/CharacterMgr/SwitchWeapons
+{fbde211a-09b7-4283-b660-ce3129456bea} event:/Enviroment/TutoFase1
+{87d46508-25b8-4979-98fe-6a5cb5a537c5} event:/FX/Fire
+{a6c73478-06ae-4684-a4b6-0552a533a292} event:/FX/Hitted
+{5a608546-14c0-48b5-852f-53bd63741887} event:/FX/PlayerStartGame
+{90ab8fda-4516-4265-b275-3d193a5334cb} event:/FX/Suck
+{8078f355-883d-4249-8c75-28a061ac81a6} bus:/
+{3e39d317-cc14-442c-88c4-dc9d9be35e3b} bus:/Reverb
+{e1cbb5c9-8bff-4e2d-9720-ce227c386bbd} bank:/Master Bank
